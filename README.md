@@ -2,7 +2,7 @@ ToDo List App
 Веб-приложение для управления списком дел, построенное на микросервисной архитектуре.
 
 Установка
-Клонируйте репозиторий: git clone https://github.com/username/todo-list-app.git
+Клонируйте репозиторий: git clone https://github.com/username/todo-list1.git
 Перейдите в каталог проекта: cd todo-list-app
 Установите зависимости: docker-compose build
 Запустите приложение: docker-compose up
